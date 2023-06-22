@@ -41,7 +41,7 @@ export default function Footer() {
                 justify={{ base: 'center', md: 'space-between' }}
                 align={{ base: 'center', md: 'center' }}>
                 <Image style={{ height: '44px' }} src={logo} alt="logo" />
-                <Text>© 2023 Prajwal Shinde, All rights reserved</Text>
+                <Text>© 2023 Dharini.S, All rights reserved</Text>
                 <Stack direction={'row'} spacing={6}>
                     <SocialButton label={'Github'} href={'https://github.com/Prajwal-shindee'}>
                         <FaGithub />
