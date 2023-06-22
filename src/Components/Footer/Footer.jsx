@@ -1,5 +1,5 @@
 import { Box, chakra, Container, Stack, Text, Image, useColorModeValue, VisuallyHidden, } from '@chakra-ui/react';
-import { FaLinkedin,  FaGithub,  FaTwitter } from 'react-icons/fa';
+import { FaLinkedin,  FaGithub } from 'react-icons/fa';
 import logo from './../../Assets/logo.png';
 
 
@@ -43,13 +43,11 @@ export default function Footer() {
                 <Image style={{ height: '44px' }} src={logo} alt="logo" />
                 <Text>© 2023 Dharini.S, All rights reserved</Text>
                 <Stack direction={'row'} spacing={6}>
-                    <SocialButton label={'Github'} href={'https://github.com/Prajwal-shindee'}>
+                    <SocialButton label={'Github'} href={'https://github.com/Dharini-MernStack'}>
                         <FaGithub />
                     </SocialButton>
-                    <SocialButton label={'Twitter'} href={'https://twitter.com/Prajwal_shindee'}>
-                        <FaTwitter />
-                    </SocialButton>
-                    <SocialButton label={'Linkedin'} href={'linkedin.com/in/prajwal-shindee/'}>
+                   
+                    <SocialButton label={'Linkedin'} href={'https://www.linkedin.com/in/dharini-srinivasan-66699499/'}>
                         <FaLinkedin />
                     </SocialButton>
                 </Stack>
