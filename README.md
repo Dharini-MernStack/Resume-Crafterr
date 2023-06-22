@@ -31,7 +31,7 @@ Here are some screenshots of the project to give you an idea of its features and
 1. Clone this repository to your local machine
 
 ```bash
-git clone https://github.com/Prajwal-shindee/Resume-Craftr.git
+git clone (https://github.com/Dharini-MernStack/Resume-Crafterr)
 ```
 
 2. Navigate to the project directory
@@ -65,7 +65,7 @@ npm run start
 
 ### Authors
 
-- [Dharini S](https://prajwal-shinde.netlify.app/)
+- [Dharini S](https://dharini-resumecrafter.onrender.com/)
 
 ### Contributions
 

@@ -112,20 +112,17 @@ export default function About() {
           name="keywords"
           content="resume builder, about us, mission, professional resumes, tools"
         />
-        <meta name="author" content="Dharini.S" />
+        <meta name="author" content="Dharini S" />
         <meta name="robots" content="index, follow" />
         <meta property="og:title" content="About Us - Resume Builder" />
         <meta
           property="og:description"
           content="Learn more about the Resume Builder website and its mission to provide easy-to-use tools for creating professional resumes."
         />
-        <meta
-          property="og:image"
-          content=""
-        />
+         <meta property="og:image" content="https://github.com/Dharini-MernStack/Resume-Crafterr/blob/fa230cbd55e8baaeb4c920713b97dd06f5edf4ad/src/Assets/WhatsApp%20Image%202023-05-26%20at%2012.47.03%20PM.jpeg" />
         <meta
           property="og:url"
-          content=""
+          content="https://dharini-resumecrafter.onrender.com/about"
         />
         <meta property="og:type" content="website" />
       </Helmet>

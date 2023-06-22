@@ -29,7 +29,7 @@ export default function Introduction() {
                 <meta name="robots" content="index,follow" />
                 <meta name="author" content="Dharini" />
                 
-             
+                <meta property="og:url" content="https://dharini-resumecrafter.onrender.com/about" />
                 <meta property="og:type" content="website" />
             </Helmet>
 
